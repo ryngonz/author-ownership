@@ -1,0 +1,2 @@
+[03-Nov-2013 12:33:19 America/Chicago] PHP Fatal error:  Call to undefined function get_post_types() in /home/invirals/public_html/sandbox/wp/wp-content/plugins/author-ownership/views/admin.php on line 17
+[03-Nov-2013 12:33:22 America/Chicago] PHP Fatal error:  Call to undefined function get_post_types() in /home/invirals/public_html/sandbox/wp/wp-content/plugins/author-ownership/views/admin.php on line 17

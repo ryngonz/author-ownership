@@ -1,0 +1,42 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+#rule_table {
+	margin:20px 0px;
+	background: #ededed;
+	border-radius:10px;
+	border:#777 solid thin;
+	width:80%;
+}
+
+#rule_table tr th, #rule_table tr td{
+	padding:5px 10px;
+	vertical-align:top;
+	text-align:left;
+}
+
+#rule_table tr td{
+	width: 20%;
+	background:#FFF;
+}
+
+#rule_table tr td.ao_rule_select{
+	width:60%;
+}
+
+#rule_table tr td.ao_rule_select select{
+	width:500px !important;
+}
+
+.ui-multiselect-checkboxes li span{
+	padding-left:5px;
+}
+
+.ao-table{
+	display:none;
+}
+
+.toggle_table{
+	text-transform:capitalize;
+	font-weight:bold;
+	cursor:pointer;
+}
